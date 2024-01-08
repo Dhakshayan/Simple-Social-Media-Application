@@ -5,4 +5,4 @@
 
 <h3>Use Postman Application for HTTP requests</h3>
 
-<a href="https://www.postman.com/downloads/" target="_blank">Click to Install Postan</a>
+<a href="https://www.postman.com/downloads/" target="_blank">Click to Install Postman</a>
